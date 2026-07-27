@@ -1,14 +1,14 @@
 <div align="center">
 
-# [Adama Komi]
+# Adama Komi
 
 ### Full-Stack Software Engineer
 
 I build full-stack products end to end — thoughtful interfaces, resilient APIs, and the systems underneath.
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=5E6AD2)](mailto:[email protected])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=5E6AD2)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=5E6AD2)](mailto:adamakomi15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=5E6AD2)](https://linkedin.com/in/adama-komi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square)](https://adamakomi.com)
 
 <br>
 
@@ -30,16 +30,16 @@ I build full-stack products end to end — thoughtful interfaces, resilient APIs
 
 ## About
 
-I'm **[Adama Komi]**, a full-stack software engineer who cares as much about the boring parts — data modeling, error handling, deployment — as the exciting ones. A system that's easy to reason about six months from now matters more to me than one that's impressive on day one.
+I'm **Adama Komi**, a full-stack software engineer who cares as much about the boring parts — data modeling, error handling, deployment — as the exciting ones. A system that's easy to reason about six months from now matters more to me than one that's impressive on day one.
 
 Most of my work sits at the intersection of frontend and backend: **React** and **Next.js** on one side, **Node.js**, **NestJS**, and **Python/FastAPI** on the other, with **PostgreSQL** holding the data model together. Lately I've been spending more time on distributed systems and applied machine learning — figuring out where AI is genuinely useful in a product, and where it's just noise.
 
 | | |
 |---|---|
-| 🌍 Based in | [City, Country] |
-| 💼 Currently | [Your current role — e.g. "Senior Software Engineer at Company" or "Open to new opportunities"] |
+| 🌍 Based in | Mohammedia, Morocco |
+| 💼 Currently | Senior Software Engineer - Open to new opportunities |
 | 🎯 Focused on | Full-stack product engineering, system design, distributed systems |
-| 📫 Reach me at | [[email protected]](mailto:[email protected]) |
+| 📫 Reach me at | [adamakomi15@gmail.com](mailto:adamakomi15@gmail.com) |
 
 ## What I Build
 
@@ -50,10 +50,10 @@ Most of my work sits at the intersection of frontend and backend: **React** and 
 
 ## Featured Projects
 
-### [Project One Name]
-*[One sentence describing what it does and who it's for]*
+### PayLith
+*Invocing saas*
 
-**Stack:** `[React]` `[Node.js]` `[PostgreSQL]`
+**Stack:** `NextJS` `[PostgreSQL]`
 
 - **Problem** — [the need or pain point this addresses]
 - **Approach** — [architecture summary: key components, how data flows, why this shape]
@@ -71,18 +71,6 @@ Most of my work sits at the intersection of frontend and backend: **React** and 
 </details>
 
 <br>
-
-### [Project Two Name]
-*[One sentence describing what it does and who it's for]*
-
-**Stack:** `[Next.js]` `[FastAPI]` `[React Native]`
-
-- **Problem** — [the need or pain point this addresses]
-- **Approach** — [architecture summary: key components, how data flows, why this shape]
-- **Challenge** — [the hardest technical problem you solved, and how]
-- **Impact** — [usage, performance, or outcome metric]
-
-[Live Demo](#) · [Source](#) · [Case Study](#)
 
 <details>
 <summary><b>Technical deep-dive</b></summary>
@@ -128,7 +116,7 @@ Most of my work sits at the intersection of frontend and backend: **React** and 
 
 | | |
 |---|---|
-| 🔨 Building | [What you're building right now] |
+| 🔨 Building | PayLith |
 | 📚 Learning | Distributed systems fundamentals & applied machine learning |
 | 🔬 Exploring | Where LLMs create genuine product value versus where they're just noise |
 
@@ -163,17 +151,15 @@ Most of my work sits at the intersection of frontend and backend: **React** and 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=5E6AD2)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=5E6AD2)](mailto:[email protected])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=5E6AD2)](https://linkedin.com/in/adama-komi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square)](https://adamakomi.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=5E6AD2)](mailto:adamakomi15@gmail.com)
 
 </div>
 
 ## Fun Facts
 
-- 🧩 [A technical quirk, unusual skill, or niche interest that shapes how you build]
-- 🎧 [A non-engineering interest, and how it influences your work — if it does]
-- 🌱 [Something about how you got into software, or a turning point in your path]
+- 🧩 
 
 <br>
 
