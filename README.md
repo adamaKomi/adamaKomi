@@ -120,25 +120,6 @@ Most of my work sits at the intersection of frontend and backend: **React** and 
 | 📚 Learning | Distributed systems fundamentals & applied machine learning |
 | 🔬 Exploring | Where LLMs create genuine product value versus where they're just noise |
 
-## GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adamaKomi&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5E6AD2&text_color=C9D1D9&icon_color=5E6AD2#gh-dark-mode-only" alt="adamaKomi's GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adamaKomi&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=5E6AD2&text_color=24292F&icon_color=5E6AD2#gh-light-mode-only" alt="adamaKomi's GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaKomi&layout=compact&hide_border=true&bg_color=0D1117&title_color=5E6AD2&text_color=C9D1D9#gh-dark-mode-only" alt="Most used languages" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaKomi&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5E6AD2&text_color=24292F#gh-light-mode-only" alt="Most used languages" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=adamaKomi&hide_border=true&background=0D1117&ring=5E6AD2&fire=5E6AD2&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E#gh-dark-mode-only" alt="GitHub streak stats" />
-<img width="100%" src="https://streak-stats.demolab.com/?user=adamaKomi&hide_border=true&background=FFFFFF&ring=5E6AD2&fire=5E6AD2&currStreakLabel=24292F&sideLabels=24292F&dates=57606A#gh-light-mode-only" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamaKomi&bg_color=0D1117&color=C9D1D9&line=5E6AD2&point=5E6AD2&area=true&hide_border=true#gh-dark-mode-only" alt="Contribution activity graph" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamaKomi&bg_color=FFFFFF&color=24292F&line=5E6AD2&point=5E6AD2&area=true&hide_border=true#gh-light-mode-only" alt="Contribution activity graph" />
-</p>
-
 ## Writing
 
 <!-- If you don't have talks or articles yet, delete this section. -->
